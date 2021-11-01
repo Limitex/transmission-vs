@@ -762,9 +762,6 @@
     <ClCompile Include="libtransmission\crypto-utils-openssl.c">
       <Filter>libtransmission</Filter>
     </ClCompile>
-    <ClCompile Include="libtransmission\daemon.c">
-      <Filter>libtransmission</Filter>
-    </ClCompile>
     <ClCompile Include="libtransmission\daemon-win32.c">
       <Filter>libtransmission</Filter>
     </ClCompile>
@@ -922,6 +919,9 @@
       <Filter>libtransmission</Filter>
     </ClCompile>
     <ClCompile Include="libtransmission\wildmat.c">
+      <Filter>libtransmission</Filter>
+    </ClCompile>
+    <ClCompile Include="cli.c">
       <Filter>libtransmission</Filter>
     </ClCompile>
   </ItemGroup>

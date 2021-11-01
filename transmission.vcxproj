@@ -91,6 +91,7 @@
     <ClCompile Include="arc4\arc4.c" />
     <ClCompile Include="b64\cdecode.c" />
     <ClCompile Include="b64\cencode.c" />
+    <ClCompile Include="cli.c" />
     <ClCompile Include="curl\altsvc.c" />
     <ClCompile Include="curl\amigaos.c" />
     <ClCompile Include="curl\asyn-ares.c" />
@@ -297,7 +298,6 @@
     <ClCompile Include="libtransmission\crypto-utils.c" />
     <ClCompile Include="libtransmission\crypto.c" />
     <ClCompile Include="libtransmission\daemon-win32.c" />
-    <ClCompile Include="libtransmission\daemon.c" />
     <ClCompile Include="libtransmission\error.c" />
     <ClCompile Include="libtransmission\fdlimit.c" />
     <ClCompile Include="libtransmission\file-win32.c" />
